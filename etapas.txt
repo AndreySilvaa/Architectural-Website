@@ -1,9 +1,0 @@
-1 - Baixar as dependências (react-router-dom) Ok
-
-2 - Criar a estrutura de pastas (pages, components) Ok
-
-3 - Configurar as rotas Ok
-
-4 - Criar os componentes Ok
-
-5 - Inicializar o conteúdo e a formatação de cada componente
