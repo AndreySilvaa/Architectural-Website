@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Architectural-Website/static/css/main.5d2770ec.css",
-    "main.js": "/Architectural-Website/static/js/main.924bb099.js",
+    "main.js": "/Architectural-Website/static/js/main.5841dc84.js",
     "static/js/787.633816a4.chunk.js": "/Architectural-Website/static/js/787.633816a4.chunk.js",
     "static/media/about-sec3-img1.png": "/Architectural-Website/static/media/about-sec3-img1.156521545ffa3eced12c.png",
     "static/media/Sec5img2.jpg": "/Architectural-Website/static/media/Sec5img2.fc466d168b6a6d09b235.jpg",
@@ -44,11 +44,11 @@
     "static/media/icons8-facebook.svg": "/Architectural-Website/static/media/icons8-facebook.f74e42dc6a2cfb2ea45d4c8ee9ad3064.svg",
     "index.html": "/Architectural-Website/index.html",
     "main.5d2770ec.css.map": "/Architectural-Website/static/css/main.5d2770ec.css.map",
-    "main.924bb099.js.map": "/Architectural-Website/static/js/main.924bb099.js.map",
+    "main.5841dc84.js.map": "/Architectural-Website/static/js/main.5841dc84.js.map",
     "787.633816a4.chunk.js.map": "/Architectural-Website/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d2770ec.css",
-    "static/js/main.924bb099.js"
+    "static/js/main.5841dc84.js"
   ]
 }
